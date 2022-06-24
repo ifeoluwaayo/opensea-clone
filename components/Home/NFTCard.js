@@ -2,7 +2,7 @@ import Image from "next/image";
 import { AiOutlineHeart } from "react-icons/ai";
 
 const style = {
-	wrapper: `relative flex h-[450px] w-[340px] cursor-pointer flex-col rounded-lg bg-white 
+	wrapper: `relative flex h-[450px] w-[300px] cursor-pointer flex-col rounded-lg bg-white 
 	shadow-lg transition-all duration-300 hover:shadow-2xl dark:bg-[#333333]`,
 	imageContainer: `h-3/4 overflow:hidden`,
 	nftImage: `rounded-t-lg object-cover`,

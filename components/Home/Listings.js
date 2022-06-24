@@ -4,8 +4,8 @@ import { useMarketplace } from "@thirdweb-dev/react";
 import NFTCard from "./NFTCard";
 
 const style = {
-	wrapper: `mx-auto grid max-w-fit flex-1 grid-cols-1 gap-20 px-3 pt-24 
-	md:grid-cols-2 md:pt-0 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5`,
+	wrapper: `mx-auto grid max-w-fit flex-1 grid-cols-1 gap-10 px-3 pt-24 justify-center
+	md:grid-cols-2 md:pt-0 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 align-center`,
 	loading: `h-[40vh] w-full flex justify-center items-center`,
 };
 
