@@ -12,6 +12,7 @@ const NFTSubInfo = () => {
 	return (
 		<div className={style.wrapper}>
 			{/* Done */}
+
 			<div className={style.textInfoContainer}>
 				Owned By <span className={style.owner}>ABC</span>
 			</div>
